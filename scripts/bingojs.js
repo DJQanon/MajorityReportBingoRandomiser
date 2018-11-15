@@ -36,7 +36,7 @@ var phrases = [
 	'Libertarian calls in',
 	'Caller asks \"is this me?\", Sam responds \"this is you"',
 	'Mindy calls in',
-	'Geoff from Georgia calls in',
+	'Jeff from Georgia calls in',
 	'Caller defends Sam Harris',
 	'Caller argues about I.Q.',
 	
