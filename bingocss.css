@@ -1,0 +1,58 @@
+body {
+  background: #ffffff
+  background-color: #ffffff
+  color: #fa0033
+  text-align: center;
+}
+
+
+h1, p {
+  font-family: 'Roboto', sans-serif; font-size: 20pt;
+  font-weight: 600;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
+  color: #fa0033;
+}
+
+p a {
+  text-decoration: none;
+  color: #111111;
+}
+
+#squarefree {
+  font-family: Helvetica;
+  margin: 0 auto;
+  background: #fa0033;
+  text-align: center;
+  font-weight: 600;
+  font-size: 15pt;
+}
+
+#bingotable {
+  margin: 0 auto;
+  text-align: center;
+  width: 600px;
+  height: 600px;
+  border-collapse: collapse;
+  background: #ffffff;
+  
+    
+  table-layout: fixed;
+}
+
+th, td {
+  font-family: Franklin Gothic Medium;
+  margin: 0 auto;
+  text-align: center;
+  border: 5px solid #eeeeee;
+  padding: 10px;
+  width: 20%;
+  height: 20%;
+  color: #fa0033;
+  background-repeat: no-repeat;
+}
+
+.orange {
+  background: #ffffff;
+}
