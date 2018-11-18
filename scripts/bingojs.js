@@ -19,6 +19,7 @@ var phrases = [
 	'Mafioso Hillary Clinton impression',
 	'Covfefe Annan impression',
 	'Ivanka date\-night joke',
+	'Russian accent',
 	
 	
 	//Soundboard
