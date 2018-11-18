@@ -65,7 +65,7 @@ var phrases = [
 	//Catchphrases - Jamie
 	'Jamie Says: \"hell yeah\"',
 	'Jamie: \"As an anarchist / socialist / marxist...\"',
-	'\"Fully automated gay space communism\"',
+	'\"Fully automated gay space luxury communism\"',
 	
 	//Guests
 	'Benjamin Dixon as a guest',
