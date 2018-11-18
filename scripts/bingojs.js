@@ -19,7 +19,7 @@ var phrases = [
 	'Mafioso Hillary Clinton impression',
 	'Covfefe Annan impression',
 	'Ivanka date\-night joke',
-	'Russian accent',
+	'Russian accent / impression',
 	
 	
 	//Soundboard
@@ -96,6 +96,7 @@ var phrases = [
 	'Sam attempts a foreign language',
 	'Sam mis-pronounces a name',
 	'Sam attempts a foreign language',
+	'Sam impededs on Michael\'s free speech',
 	
 	//Rare events
 	'Sam drops an F-bomb',
