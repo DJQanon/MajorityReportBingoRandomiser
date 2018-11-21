@@ -8,6 +8,7 @@ var phrases = [
 	'Blue Apron',
 	'Liquid I.V.',
 	'Third love / \"nice gams\"',
+	'Just Coffee Co-Op',
 	
 	//Impressions
 	'Trump impression',
